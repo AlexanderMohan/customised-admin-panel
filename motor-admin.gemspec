@@ -4,7 +4,7 @@ require_relative 'lib/motor/version'
 
 Gem::Specification.new do |spec|
   spec.name        = 'alexandermohan-admin-panel'
-  spec.version     = 0.0.1
+  spec.version     = 0.4.161
   spec.authors     = ['Alexander Mohan Morzeria-Davis and Pete Matsyburka']
   spec.email       = ['me@alexandermohan.com']
   spec.summary     = 'Customised Admin Panel for alexanderMOHAN projects'
