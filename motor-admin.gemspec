@@ -3,18 +3,18 @@
 require_relative 'lib/motor/version'
 
 Gem::Specification.new do |spec|
-  spec.name        = 'motor-admin'
+  spec.name        = 'alexandermohan-admin-panel'
   spec.version     = Motor::VERSION
-  spec.authors     = ['Pete Matsyburka']
-  spec.email       = ['pete@getmotoradmin.com']
-  spec.summary     = 'Low-code Admin panel and Business intelligence'
+  spec.authors     = ['Alexander Mohan Morzeria-Davis and Pete Matsyburka']
+  spec.email       = ['me@alexandermohan.com']
+  spec.summary     = 'Customised Admin Panel for alexanderMOHAN projects'
   spec.license     = 'AGPL-3.0'
 
   spec.metadata = {
-    'bug_tracker_uri' => 'https://github.com/motor-admin/motor-admin-rails/issues',
-    'homepage_uri' => 'https://www.getmotoradmin.com',
-    'source_code_uri' => 'https://github.com/motor-admin/motor-admin-rails',
-    'documentation_uri' => 'https://github.com/motor-admin/motor-admin-rails/tree/master/guides',
+    'bug_tracker_uri' => 'https://github.com/AlexanderMohan/customised-admin-panel/issues',
+    'homepage_uri' => 'https://www.alexandermohan.com',
+    'source_code_uri' => 'https://github.com/AlexanderMohan/customised-admin-panel',
+    'documentation_uri' => 'https://github.com/AlexanderMohan/customised-admin-panel/tree/master/guides',
     'rubygems_mfa_required' => 'true'
   }
 
@@ -48,8 +48,6 @@ Gem::Specification.new do |spec|
   "
 
   spec.description = <<~TEXT
-    Motor Admin allows to create a flexible admin panel with writing less code.
-    All customizations to the admin panel can be made directly in the UI without
-    the need of writing any configurations code.
+    Customised admin panel for alexanderMOHAN projects.
   TEXT
 end
